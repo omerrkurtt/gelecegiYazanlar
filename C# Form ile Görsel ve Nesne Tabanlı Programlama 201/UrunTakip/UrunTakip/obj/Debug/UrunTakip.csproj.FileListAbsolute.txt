@@ -1,0 +1,15 @@
+C:\Users\Ömer\source\repos\UrunTakip\UrunTakip\bin\Debug\UrunTakip.exe.config
+C:\Users\Ömer\source\repos\UrunTakip\UrunTakip\bin\Debug\UrunTakip.exe
+C:\Users\Ömer\source\repos\UrunTakip\UrunTakip\bin\Debug\UrunTakip.pdb
+C:\Users\Ömer\source\repos\UrunTakip\UrunTakip\obj\Debug\UrunTakip.csproj.AssemblyReference.cache
+C:\Users\Ömer\source\repos\UrunTakip\UrunTakip\obj\Debug\UrunTakip.Form1.resources
+C:\Users\Ömer\source\repos\UrunTakip\UrunTakip\obj\Debug\UrunTakip.Properties.Resources.resources
+C:\Users\Ömer\source\repos\UrunTakip\UrunTakip\obj\Debug\UrunTakip.csproj.GenerateResource.cache
+C:\Users\Ömer\source\repos\UrunTakip\UrunTakip\obj\Debug\UrunTakip.csproj.CoreCompileInputs.cache
+C:\Users\Ömer\source\repos\UrunTakip\UrunTakip\obj\Debug\UrunTakip.exe
+C:\Users\Ömer\source\repos\UrunTakip\UrunTakip\obj\Debug\UrunTakip.pdb
+C:\Users\Ömer\source\repos\UrunTakip\UrunTakip\obj\Debug\UrunTakip.FrmUrun.resources
+C:\Users\Ömer\source\repos\UrunTakip\UrunTakip\obj\Debug\UrunTakip.Frmistatistik.resources
+C:\Users\Ömer\source\repos\UrunTakip\UrunTakip\obj\Debug\UrunTakip.FrmAdmin.resources
+C:\Users\Ömer\source\repos\UrunTakip\UrunTakip\obj\Debug\UrunTakip.FrmYonlendirme.resources
+C:\Users\Ömer\source\repos\UrunTakip\UrunTakip\obj\Debug\UrunTakip.FrmGrafikler.resources

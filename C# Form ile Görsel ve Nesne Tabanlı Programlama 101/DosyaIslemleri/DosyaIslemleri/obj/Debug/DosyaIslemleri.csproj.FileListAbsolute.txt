@@ -1,0 +1,20 @@
+C:\Users\Ömer\source\repos\DosyaIslemleri\DosyaIslemleri\bin\Debug\DosyaIslemleri.exe.config
+C:\Users\Ömer\source\repos\DosyaIslemleri\DosyaIslemleri\bin\Debug\DosyaIslemleri.exe
+C:\Users\Ömer\source\repos\DosyaIslemleri\DosyaIslemleri\bin\Debug\DosyaIslemleri.pdb
+C:\Users\Ömer\source\repos\DosyaIslemleri\DosyaIslemleri\obj\Debug\DosyaIslemleri.csproj.AssemblyReference.cache
+C:\Users\Ömer\source\repos\DosyaIslemleri\DosyaIslemleri\obj\Debug\DosyaIslemleri.Form1.resources
+C:\Users\Ömer\source\repos\DosyaIslemleri\DosyaIslemleri\obj\Debug\DosyaIslemleri.Properties.Resources.resources
+C:\Users\Ömer\source\repos\DosyaIslemleri\DosyaIslemleri\obj\Debug\DosyaIslemleri.csproj.GenerateResource.cache
+C:\Users\Ömer\source\repos\DosyaIslemleri\DosyaIslemleri\obj\Debug\DosyaIslemleri.csproj.CoreCompileInputs.cache
+C:\Users\Ömer\source\repos\DosyaIslemleri\DosyaIslemleri\obj\Debug\DosyaIslemleri.exe
+C:\Users\Ömer\source\repos\DosyaIslemleri\DosyaIslemleri\obj\Debug\DosyaIslemleri.pdb
+C:\Users\Ömer\Desktop\C#\Geleceği Yazanlar\C# Form ile Görsel ve Nesne Tabanlı Programlama 101\DosyaIslemleri\DosyaIslemleri\bin\Debug\DosyaIslemleri.exe.config
+C:\Users\Ömer\Desktop\C#\Geleceği Yazanlar\C# Form ile Görsel ve Nesne Tabanlı Programlama 101\DosyaIslemleri\DosyaIslemleri\bin\Debug\DosyaIslemleri.exe
+C:\Users\Ömer\Desktop\C#\Geleceği Yazanlar\C# Form ile Görsel ve Nesne Tabanlı Programlama 101\DosyaIslemleri\DosyaIslemleri\bin\Debug\DosyaIslemleri.pdb
+C:\Users\Ömer\Desktop\C#\Geleceği Yazanlar\C# Form ile Görsel ve Nesne Tabanlı Programlama 101\DosyaIslemleri\DosyaIslemleri\obj\Debug\DosyaIslemleri.csproj.AssemblyReference.cache
+C:\Users\Ömer\Desktop\C#\Geleceği Yazanlar\C# Form ile Görsel ve Nesne Tabanlı Programlama 101\DosyaIslemleri\DosyaIslemleri\obj\Debug\DosyaIslemleri.Form1.resources
+C:\Users\Ömer\Desktop\C#\Geleceği Yazanlar\C# Form ile Görsel ve Nesne Tabanlı Programlama 101\DosyaIslemleri\DosyaIslemleri\obj\Debug\DosyaIslemleri.Properties.Resources.resources
+C:\Users\Ömer\Desktop\C#\Geleceği Yazanlar\C# Form ile Görsel ve Nesne Tabanlı Programlama 101\DosyaIslemleri\DosyaIslemleri\obj\Debug\DosyaIslemleri.csproj.GenerateResource.cache
+C:\Users\Ömer\Desktop\C#\Geleceği Yazanlar\C# Form ile Görsel ve Nesne Tabanlı Programlama 101\DosyaIslemleri\DosyaIslemleri\obj\Debug\DosyaIslemleri.csproj.CoreCompileInputs.cache
+C:\Users\Ömer\Desktop\C#\Geleceği Yazanlar\C# Form ile Görsel ve Nesne Tabanlı Programlama 101\DosyaIslemleri\DosyaIslemleri\obj\Debug\DosyaIslemleri.exe
+C:\Users\Ömer\Desktop\C#\Geleceği Yazanlar\C# Form ile Görsel ve Nesne Tabanlı Programlama 101\DosyaIslemleri\DosyaIslemleri\obj\Debug\DosyaIslemleri.pdb

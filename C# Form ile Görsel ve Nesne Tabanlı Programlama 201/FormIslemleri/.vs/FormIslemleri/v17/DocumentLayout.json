@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u00D6mer\\source\\repos\\FormIslemleri\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1269011E-6CB8-4B97-A66E-E0BA36F0457B}|FormIslemleri\\FormIslemleri.csproj|C:\\Users\\\u00D6mer\\source\\repos\\FormIslemleri\\formislemleri\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1269011E-6CB8-4B97-A66E-E0BA36F0457B}|FormIslemleri\\FormIslemleri.csproj|solutionrelative:formislemleri\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1269011E-6CB8-4B97-A66E-E0BA36F0457B}|FormIslemleri\\FormIslemleri.csproj|C:\\Users\\\u00D6mer\\source\\repos\\FormIslemleri\\formislemleri\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1269011E-6CB8-4B97-A66E-E0BA36F0457B}|FormIslemleri\\FormIslemleri.csproj|solutionrelative:formislemleri\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1269011E-6CB8-4B97-A66E-E0BA36F0457B}|FormIslemleri\\FormIslemleri.csproj|C:\\Users\\\u00D6mer\\source\\repos\\FormIslemleri\\formislemleri\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1269011E-6CB8-4B97-A66E-E0BA36F0457B}|FormIslemleri\\FormIslemleri.csproj|solutionrelative:formislemleri\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1269011E-6CB8-4B97-A66E-E0BA36F0457B}|FormIslemleri\\FormIslemleri.csproj|c:\\users\\\u00F6mer\\source\\repos\\formislemleri\\formislemleri\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1269011E-6CB8-4B97-A66E-E0BA36F0457B}|FormIslemleri\\FormIslemleri.csproj|solutionrelative:formislemleri\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1269011E-6CB8-4B97-A66E-E0BA36F0457B}|FormIslemleri\\FormIslemleri.csproj|C:\\Users\\\u00D6mer\\source\\repos\\FormIslemleri\\formislemleri\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1269011E-6CB8-4B97-A66E-E0BA36F0457B}|FormIslemleri\\FormIslemleri.csproj|solutionrelative:formislemleri\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\\u00D6mer\\source\\repos\\FormIslemleri\\FormIslemleri\\Form1.cs",
+              "RelativeDocumentMoniker": "FormIslemleri\\Form1.cs",
+              "ToolTip": "C:\\Users\\\u00D6mer\\source\\repos\\FormIslemleri\\FormIslemleri\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "FormIslemleri\\Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T12:50:57.007Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form3.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\\u00D6mer\\source\\repos\\FormIslemleri\\FormIslemleri\\Form3.cs",
+              "RelativeDocumentMoniker": "FormIslemleri\\Form3.cs",
+              "ToolTip": "C:\\Users\\\u00D6mer\\source\\repos\\FormIslemleri\\FormIslemleri\\Form3.cs [Tasar\u0131m]",
+              "RelativeToolTip": "FormIslemleri\\Form3.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T12:36:12.531Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form2.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\\u00D6mer\\source\\repos\\FormIslemleri\\FormIslemleri\\Form2.cs",
+              "RelativeDocumentMoniker": "FormIslemleri\\Form2.cs",
+              "ToolTip": "C:\\Users\\\u00D6mer\\source\\repos\\FormIslemleri\\FormIslemleri\\Form2.cs [Tasar\u0131m]",
+              "RelativeToolTip": "FormIslemleri\\Form2.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T22:41:32.121Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\\u00D6mer\\source\\repos\\FormIslemleri\\FormIslemleri\\Form1.cs",
+              "RelativeDocumentMoniker": "FormIslemleri\\Form1.cs",
+              "ToolTip": "C:\\Users\\\u00D6mer\\source\\repos\\FormIslemleri\\FormIslemleri\\Form1.cs",
+              "RelativeToolTip": "FormIslemleri\\Form1.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAIA7wEIAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T21:42:20.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\\u00D6mer\\source\\repos\\FormIslemleri\\FormIslemleri\\Form2.cs",
+              "RelativeDocumentMoniker": "FormIslemleri\\Form2.cs",
+              "ToolTip": "C:\\Users\\\u00D6mer\\source\\repos\\FormIslemleri\\FormIslemleri\\Form2.cs",
+              "RelativeToolTip": "FormIslemleri\\Form2.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAcAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T12:25:09.579Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

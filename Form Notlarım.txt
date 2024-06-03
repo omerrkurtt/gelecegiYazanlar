@@ -1,0 +1,89 @@
+101 :
+
+ TabIndex : Tab ile sıra sıra ilerlemek için nesnenin bu özelliğini kullanırız
+
+TextBox a girilen değerin şifre gibi görünmesini istemiyorsak useSystemPassqordChar özelliğini kullanırız
+
+MaximizeBox-MinimizeBox : Formun büyütülmesini ve aşağı alınmasını engeller
+
+StartPosition : Formun açılışta ekranın nereden başlandığını belirlemek için kullanılır.
+
+AutoSizeMode->growAndShrink : Formun kenarlarından tutulup sağa sola büyütme-küçültmeyi engeller
+
+Enabled : Dışarıdan veri girişi yapılmasını istemiyorsa(textBox gibi) bu özelliği kullanırız.
+
+DrowDownStyle > DrowDownList : ComboBox a dışarıdan veri girilmesini önler.
+
+ComboBox temizle işlemi yaparken "DrowDownStyle > DrowDownList" ise silem işlemini şu şekilde yapıyoruz "comboBox1.SelectedIndex = -1;"
+
+MessageBox 4 tane parametre alır Bunlar;
+
+1-Mesaj
+2-Başlık
+3-Buton
+4-Icon
+
+ContextMenuStrip => Form sayfasında sağ tık menüsü oluşturmak için kullanılır.
+
+---------------------------------------------201 -------------------------------------------------------
+
+Bit: True veya false şeklinde değer alan veri türüdür.
+
+Char: Sabit uzunluklu veriler için kullanılan türdür.
+
+Datetime: Tarih zaman bilgileri için kullanılır.
+
+Decimal: Ondalıklı sayılar için kullanılmaktadır.
+
+Int: Tam sayılar için kullanılır.
+
+N: Latin alfabesi dışındaki karakterler için kullanılır.
+
+Smallint: + - 32 bin 768 aralığında değer alan veri türüdür.
+
+Tinyint: 0-255 arası tam sayıları kullanan veri türüdür.
+
+Varchar: Değişken uzunluklu karakterler için kullanılır.
+
+
+SQL de yorum satırı "--" işareti ile gösterilir
+
+Insert into TblKitaplar => kitaplar tablosunun içerisine ekle
+
+SQL dilinde sadece seçili yerinde çalışabileceğini unutma.
+
+-----------
+--SELECT SÜTUN ADLARI FROM TABLE
+-- * = ALL
+--SELECT * FROM TblKitaplar
+-- Bir üstteki satıdaki tüm tabloyu çağırdık.
+--SELECT Sayfa From TblKitaplar
+-- where = if bloğu = şartlı
+--Select * from TblKitaplar where KitapAd='yaban'
+--Select * from TblKitaplar where yazar='jules verne'
+--Select * from TblKitaplar where yazar='jules verne' or 'dostoyevski'
+--Select * from TblKitaplar where yazar='charles dickens' and KitapID=8
+--insert into TblKitaplar (colum1,column2,...) values ('Siyah Lale')
+--Select * from TblKitaplar
+--insert into TblKitaplar (KitapAd,Yazar,Sayfa) values ('Anadolu Notları','Reşat Nuri Güntekin','232')
+--Select * from TblKitaplar
+--insert into TblKitaplar (KitapAd) values ('Siyah Lale')
+--Delete from TblKitaplar where KitapID=10
+--insert into TblKitaplar (KitapAd) values ('palto')
+--update TblKitaplar set Sayfa=185 where KitapAd='Siyah Lale'
+--insert into TblKitaplar (KitapAd) values ('palto')
+update TblKitaplar set yazar='Gogol',Sayfa='250' where KitapID=13
+
+
+--------
+
+FormBorder-(None) > Form Kenar görünümünü ayarlar.
+
+AcceptButton > Enter tuşuna basıldığında kullanılacak olan butonu belirler.
+
+INNER JOIN: İki tabloyu birleştirir
+
+Form özelliklerinden AutoSizeMode > GrowAndShrink
+
+Proje toplam kaç satır kod yazıldığına (arka plan otomatik yazılan satırlarda dahil) şuradan bakılır:
+Solution Explorer >

@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u00D6mer\\source\\repos\\UrunTakip\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7D3C017C-27A4-4023-A1F3-661A3D414BB7}|UrunTakip\\UrunTakip.csproj|c:\\users\\\u00F6mer\\source\\repos\\uruntakip\\uruntakip\\frmyonlendirme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7D3C017C-27A4-4023-A1F3-661A3D414BB7}|UrunTakip\\UrunTakip.csproj|solutionrelative:uruntakip\\frmyonlendirme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D3C017C-27A4-4023-A1F3-661A3D414BB7}|UrunTakip\\UrunTakip.csproj|c:\\users\\\u00F6mer\\source\\repos\\uruntakip\\uruntakip\\frmyonlendirme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D3C017C-27A4-4023-A1F3-661A3D414BB7}|UrunTakip\\UrunTakip.csproj|solutionrelative:uruntakip\\frmyonlendirme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D3C017C-27A4-4023-A1F3-661A3D414BB7}|UrunTakip\\UrunTakip.csproj|c:\\users\\\u00F6mer\\source\\repos\\uruntakip\\uruntakip\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7D3C017C-27A4-4023-A1F3-661A3D414BB7}|UrunTakip\\UrunTakip.csproj|solutionrelative:uruntakip\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D3C017C-27A4-4023-A1F3-661A3D414BB7}|UrunTakip\\UrunTakip.csproj|c:\\users\\\u00F6mer\\source\\repos\\uruntakip\\uruntakip\\frmgrafikler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D3C017C-27A4-4023-A1F3-661A3D414BB7}|UrunTakip\\UrunTakip.csproj|solutionrelative:uruntakip\\frmgrafikler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D3C017C-27A4-4023-A1F3-661A3D414BB7}|UrunTakip\\UrunTakip.csproj|c:\\users\\\u00F6mer\\source\\repos\\uruntakip\\uruntakip\\frmgrafikler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7D3C017C-27A4-4023-A1F3-661A3D414BB7}|UrunTakip\\UrunTakip.csproj|solutionrelative:uruntakip\\frmgrafikler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmYonlendirme.cs",
+              "DocumentMoniker": "C:\\Users\\\u00D6mer\\source\\repos\\UrunTakip\\UrunTakip\\FrmYonlendirme.cs",
+              "RelativeDocumentMoniker": "UrunTakip\\FrmYonlendirme.cs",
+              "ToolTip": "C:\\Users\\\u00D6mer\\source\\repos\\UrunTakip\\UrunTakip\\FrmYonlendirme.cs",
+              "RelativeToolTip": "UrunTakip\\FrmYonlendirme.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAD4vzQAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T13:53:50.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmYonlendirme.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\\u00D6mer\\source\\repos\\UrunTakip\\UrunTakip\\FrmYonlendirme.cs",
+              "RelativeDocumentMoniker": "UrunTakip\\FrmYonlendirme.cs",
+              "ToolTip": "C:\\Users\\\u00D6mer\\source\\repos\\UrunTakip\\UrunTakip\\FrmYonlendirme.cs [Design]",
+              "RelativeToolTip": "UrunTakip\\FrmYonlendirme.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T13:53:48.45Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\\u00D6mer\\source\\repos\\UrunTakip\\UrunTakip\\Form1.cs",
+              "RelativeDocumentMoniker": "UrunTakip\\Form1.cs",
+              "ToolTip": "C:\\Users\\\u00D6mer\\source\\repos\\UrunTakip\\UrunTakip\\Form1.cs [Design]",
+              "RelativeToolTip": "UrunTakip\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T13:48:06.54Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmGrafikler.cs",
+              "DocumentMoniker": "C:\\Users\\\u00D6mer\\source\\repos\\UrunTakip\\UrunTakip\\FrmGrafikler.cs",
+              "RelativeDocumentMoniker": "UrunTakip\\FrmGrafikler.cs",
+              "ToolTip": "C:\\Users\\\u00D6mer\\source\\repos\\UrunTakip\\UrunTakip\\FrmGrafikler.cs",
+              "RelativeToolTip": "UrunTakip\\FrmGrafikler.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAqwBQAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T13:28:00.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmGrafikler.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\\u00D6mer\\source\\repos\\UrunTakip\\UrunTakip\\FrmGrafikler.cs",
+              "RelativeDocumentMoniker": "UrunTakip\\FrmGrafikler.cs",
+              "ToolTip": "C:\\Users\\\u00D6mer\\source\\repos\\UrunTakip\\UrunTakip\\FrmGrafikler.cs [Design]",
+              "RelativeToolTip": "UrunTakip\\FrmGrafikler.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T13:15:07.623Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u00D6mer\\Desktop\\C#\\Gelece\u011Fi Yazanlar\\C# Form ile G\u00F6rsel ve Nesne Tabanl\u0131 Programlama 101\\DosyaIslemleri\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A02D584A-C83A-4F22-B277-260C37555287}|DosyaIslemleri\\DosyaIslemleri.csproj|c:\\users\\\u00F6mer\\desktop\\c#\\gelece\u011Fi yazanlar\\c# form ile g\u00F6rsel ve nesne tabanl\u0131 programlama 101\\dosyaislemleri\\dosyaislemleri\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A02D584A-C83A-4F22-B277-260C37555287}|DosyaIslemleri\\DosyaIslemleri.csproj|solutionrelative:dosyaislemleri\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A02D584A-C83A-4F22-B277-260C37555287}|DosyaIslemleri\\DosyaIslemleri.csproj|C:\\Users\\\u00D6mer\\Desktop\\C#\\Gelece\u011Fi Yazanlar\\C# Form ile G\u00F6rsel ve Nesne Tabanl\u0131 Programlama 101\\DosyaIslemleri\\dosyaislemleri\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A02D584A-C83A-4F22-B277-260C37555287}|DosyaIslemleri\\DosyaIslemleri.csproj|solutionrelative:dosyaislemleri\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\\u00D6mer\\Desktop\\C#\\Gelece\u011Fi Yazanlar\\C# Form ile G\u00F6rsel ve Nesne Tabanl\u0131 Programlama 101\\DosyaIslemleri\\DosyaIslemleri\\Form1.cs",
+              "RelativeDocumentMoniker": "DosyaIslemleri\\Form1.cs",
+              "ToolTip": "C:\\Users\\\u00D6mer\\Desktop\\C#\\Gelece\u011Fi Yazanlar\\C# Form ile G\u00F6rsel ve Nesne Tabanl\u0131 Programlama 101\\DosyaIslemleri\\DosyaIslemleri\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "DosyaIslemleri\\Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T21:02:19.488Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\\u00D6mer\\Desktop\\C#\\Gelece\u011Fi Yazanlar\\C# Form ile G\u00F6rsel ve Nesne Tabanl\u0131 Programlama 101\\DosyaIslemleri\\DosyaIslemleri\\Form1.cs",
+              "RelativeDocumentMoniker": "DosyaIslemleri\\Form1.cs",
+              "ToolTip": "C:\\Users\\\u00D6mer\\Desktop\\C#\\Gelece\u011Fi Yazanlar\\C# Form ile G\u00F6rsel ve Nesne Tabanl\u0131 Programlama 101\\DosyaIslemleri\\DosyaIslemleri\\Form1.cs",
+              "RelativeToolTip": "DosyaIslemleri\\Form1.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAcwFoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T21:09:40.087Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

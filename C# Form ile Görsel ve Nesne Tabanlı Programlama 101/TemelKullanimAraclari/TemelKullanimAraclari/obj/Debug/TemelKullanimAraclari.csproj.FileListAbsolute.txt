@@ -1,0 +1,11 @@
+C:\Users\Ömer\source\repos\TemelKullanimAraclari\TemelKullanimAraclari\bin\Debug\TemelKullanimAraclari.exe.config
+C:\Users\Ömer\source\repos\TemelKullanimAraclari\TemelKullanimAraclari\bin\Debug\TemelKullanimAraclari.exe
+C:\Users\Ömer\source\repos\TemelKullanimAraclari\TemelKullanimAraclari\bin\Debug\TemelKullanimAraclari.pdb
+C:\Users\Ömer\source\repos\TemelKullanimAraclari\TemelKullanimAraclari\obj\Debug\TemelKullanimAraclari.csproj.AssemblyReference.cache
+C:\Users\Ömer\source\repos\TemelKullanimAraclari\TemelKullanimAraclari\obj\Debug\TemelKullanimAraclari.Form1.resources
+C:\Users\Ömer\source\repos\TemelKullanimAraclari\TemelKullanimAraclari\obj\Debug\TemelKullanimAraclari.Properties.Resources.resources
+C:\Users\Ömer\source\repos\TemelKullanimAraclari\TemelKullanimAraclari\obj\Debug\TemelKullanimAraclari.csproj.GenerateResource.cache
+C:\Users\Ömer\source\repos\TemelKullanimAraclari\TemelKullanimAraclari\obj\Debug\TemelKullanimAraclari.csproj.CoreCompileInputs.cache
+C:\Users\Ömer\source\repos\TemelKullanimAraclari\TemelKullanimAraclari\obj\Debug\TemelKullanimAraclari.exe
+C:\Users\Ömer\source\repos\TemelKullanimAraclari\TemelKullanimAraclari\obj\Debug\TemelKullanimAraclari.pdb
+C:\Users\Ömer\source\repos\TemelKullanimAraclari\TemelKullanimAraclari\obj\Debug\TemelKullanimAraclari.Form2.resources

@@ -1,0 +1,12 @@
+C:\Users\Ömer\source\repos\FormIslemleri\FormIslemleri\bin\Debug\FormIslemleri.exe
+C:\Users\Ömer\source\repos\FormIslemleri\FormIslemleri\bin\Debug\FormIslemleri.exe.config
+C:\Users\Ömer\source\repos\FormIslemleri\FormIslemleri\obj\Debug\FormIslemleri.csproj.AssemblyReference.cache
+C:\Users\Ömer\source\repos\FormIslemleri\FormIslemleri\obj\Debug\FormIslemleri.Form1.resources
+C:\Users\Ömer\source\repos\FormIslemleri\FormIslemleri\obj\Debug\FormIslemleri.Properties.Resources.resources
+C:\Users\Ömer\source\repos\FormIslemleri\FormIslemleri\obj\Debug\FormIslemleri.csproj.GenerateResource.cache
+C:\Users\Ömer\source\repos\FormIslemleri\FormIslemleri\obj\Debug\FormIslemleri.csproj.CoreCompileInputs.cache
+C:\Users\Ömer\source\repos\FormIslemleri\FormIslemleri\obj\Debug\FormIslemleri.exe
+C:\Users\Ömer\source\repos\FormIslemleri\FormIslemleri\obj\Debug\FormIslemleri.pdb
+C:\Users\Ömer\source\repos\FormIslemleri\FormIslemleri\bin\Debug\FormIslemleri.pdb
+C:\Users\Ömer\source\repos\FormIslemleri\FormIslemleri\obj\Debug\FormIslemleri.Form2.resources
+C:\Users\Ömer\source\repos\FormIslemleri\FormIslemleri\obj\Debug\FormIslemleri.Form3.resources

@@ -1,0 +1,12 @@
+C:\Users\Ömer\source\repos\TemelAracKullanimlari2\TemelAracKullanimlari2\bin\Debug\TemelAracKullanimlari2.exe.config
+C:\Users\Ömer\source\repos\TemelAracKullanimlari2\TemelAracKullanimlari2\bin\Debug\TemelAracKullanimlari2.exe
+C:\Users\Ömer\source\repos\TemelAracKullanimlari2\TemelAracKullanimlari2\bin\Debug\TemelAracKullanimlari2.pdb
+C:\Users\Ömer\source\repos\TemelAracKullanimlari2\TemelAracKullanimlari2\obj\Debug\TemelAracKullanimlari2.csproj.AssemblyReference.cache
+C:\Users\Ömer\source\repos\TemelAracKullanimlari2\TemelAracKullanimlari2\obj\Debug\TemelAracKullanimlari2.Form1.resources
+C:\Users\Ömer\source\repos\TemelAracKullanimlari2\TemelAracKullanimlari2\obj\Debug\TemelAracKullanimlari2.Properties.Resources.resources
+C:\Users\Ömer\source\repos\TemelAracKullanimlari2\TemelAracKullanimlari2\obj\Debug\TemelAracKullanimlari2.csproj.GenerateResource.cache
+C:\Users\Ömer\source\repos\TemelAracKullanimlari2\TemelAracKullanimlari2\obj\Debug\TemelAracKullanimlari2.csproj.CoreCompileInputs.cache
+C:\Users\Ömer\source\repos\TemelAracKullanimlari2\TemelAracKullanimlari2\obj\Debug\TemelAracKullanimlari2.exe
+C:\Users\Ömer\source\repos\TemelAracKullanimlari2\TemelAracKullanimlari2\obj\Debug\TemelAracKullanimlari2.pdb
+C:\Users\Ömer\source\repos\TemelAracKullanimlari2\TemelAracKullanimlari2\obj\Debug\TemelAracKullanimlari2.Form2.resources
+C:\Users\Ömer\source\repos\TemelAracKullanimlari2\TemelAracKullanimlari2\obj\Debug\TemelAracKullanimlari2.Form3.resources
